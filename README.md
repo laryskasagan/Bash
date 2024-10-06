@@ -55,3 +55,8 @@ cd path/to/folder
 git clone git@github.com:username/repository.git
 ```
 Once you have cloned the repository, you can use Git commands to manage it.
+
+## **2. Ignoring macOS .DS_Store Files in Git 🗂️**
+
+This instruction will guide you through the process of setting up a *.gitignore* file to automatically exclude *.DS_Store* files from being tracked in your Git repository. 
+
